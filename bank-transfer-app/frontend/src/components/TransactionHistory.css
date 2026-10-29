@@ -1,0 +1,6 @@
+.history-header { display: flex; justify-content: space-between; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+.history-header select { padding: 10px 12px; border: 1px solid #cfd8d3; border-radius: 8px; font: inherit; background: #f8faf9; }
+.scroll { overflow-x: auto; }
+.empty { text-align: center; color: #6b7a74; padding: 24px; }
+.badge { background: #e3f3ea; color: #1f6f4a; padding: 3px 8px; border-radius: 999px; font-size: 11px; font-weight: 700; }
+.tiny { padding: 5px 10px; font-size: 12px; }

@@ -1,0 +1,10 @@
+.overlay { position: fixed; inset: 0; background: rgba(15,30,25,.55); display: flex; align-items: center; justify-content: center; z-index: 40; padding: 16px; }
+.modal { background: #fff; border-radius: 16px; padding: 24px; width: 100%; max-width: 420px; text-align: center; }
+.modal h2 { margin: 6px 0 0; }
+.check { width: 48px; height: 48px; margin: 0 auto; border-radius: 50%; background: #e3f3ea; color: #1f6f4a; font-size: 28px; line-height: 48px; }
+.amount { font-size: 28px; font-weight: 700; margin: 6px 0 12px; color: #1f6f4a; }
+.qr { display: inline-block; padding: 10px; border: 1px solid #e0e6e3; border-radius: 12px; }
+.small { font-size: 12px; margin: 8px 0 14px; }
+dl { display: grid; grid-template-columns: 90px 1fr; gap: 6px 10px; text-align: left; font-size: 13px; margin: 0 0 18px; }
+dt { color: #6b7a74; } dd { margin: 0; word-break: break-all; }
+.mono { font-family: ui-monospace, Consolas, monospace; font-size: 12px; }
